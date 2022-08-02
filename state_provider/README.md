@@ -24,10 +24,10 @@ Usage
 From your command line:
 
 * Clone this repository
-  * `git clone https://gitlab.com/papagroup-outsource/sharing-clothes-platform.git`
+  * `git clone https://github.com/epitchi/flutter-advanced.git`
 
 * Go into the repository
-  * `cd sharing-closthes-platform`
+  * `cd state_provider`
 
 * Install dependencies
   * `flutter pub get`
